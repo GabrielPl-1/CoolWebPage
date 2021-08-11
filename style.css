@@ -1,0 +1,54 @@
+body{
+    background-image: url("https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-09/reuters_brazil_amazon_rainforest_fire_10sep19.jpg?itok=kyx7n815");
+  }
+  .nome{
+    text-align: center;
+    margin-top: -30rem;
+    font-size: 5rem;
+  }
+  .container{
+    width: 100%;
+    margin: 5 auto;
+  }
+  .login-form{
+    padding: 30%;
+    background: #ffffffd1;
+    border-radius: 15px;
+  }
+  .caixa{
+    margin-top: 10rem;
+    text-align: center;
+    border-radius: 7px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35rem;
+  }
+  .caixa_senha{
+    text-align: center;
+    border-radius: 7px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35rem;
+    margin-top: 2rem;
+  }
+  .botao{
+    border-radius: 7px;
+    margin-top: 3rem;
+    width: 30rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .login_externo{
+    border: 1rem,solid,black;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5rem;
+  }
+  .placeholder{
+    text-align: center
+  }
